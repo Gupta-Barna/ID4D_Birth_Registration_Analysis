@@ -29,7 +29,7 @@ The analysis focuses on the 'BIRTH_REG' indicator.
 - Unregistered_Children: Percentage of unregistered children
 
 ## Calculation
--Unregistered_Children = 100 - OBS_VALUE`
+Unregistered_Children = 100 - OBS_VALUE
 
 ## Tools Used
 - Python
