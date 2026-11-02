@@ -3,6 +3,14 @@
 ## Project Overview
 This project analyzes birth registration data from the World Bank ID4D Global Dataset. The goal is to explore birth registration rates across different countries, years, and genders.
 
+## Key Findings
+
+- What is the average birth registration rate across countries?
+- How does birth registration vary across countries?
+- How has the birth registration rate changed from 2022 to 2024?
+- Is there a difference in birth registration rates between males and females?
+- What percentage of children remain unregistered?
+  
 ## Objectives
 - Analyze birth registration rates across countries.
 - Compare birth registration rates between males and females.
